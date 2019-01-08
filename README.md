@@ -1,4 +1,1 @@
-# sudoku
-sepuku
-Sonya
-Suiseiseki
+
